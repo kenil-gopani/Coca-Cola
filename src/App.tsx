@@ -165,7 +165,7 @@ function App() {
                     </div>
 
                     <div className="text-center" id="slide-out-from-bottom-five">
-    <a href="mailto:gopanikenil26@gmail.com" className="hover:underline">
+   <a href="mailto:gopanikenil26@gmail.com" className="hover:underline" target="_blank">
         <h2>Email</h2>
     </a>
     <a href="https://github.com/kenil-gopani" target="_blank" rel="noopener noreferrer" className="hover:underline">
