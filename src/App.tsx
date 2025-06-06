@@ -167,8 +167,8 @@ function App() {
                     <div
                         className="text-center"
                         id="slide-out-from-bottom-five">
-                        <h2><a href="mailto:gopanikenil26@gmail.com">Email</a></h2>
-                        <h2><a href="https://github.com/kenil-gopani" target="_blank">GitHub</a></h2>
+                        <h2>Email</a></h2>
+                        <h2>GitHub</a></h2>
                         <h2>LinkedIn</a></h2>
 
                     </div>
