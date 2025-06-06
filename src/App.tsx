@@ -132,8 +132,8 @@ function App() {
                     id="footer"
                     className="px-10 pb-10 fixed bottom-0 left-0 right-0 flex justify-between items-end">
                     <div id="slide-out-from-bottom-one">
-                        <h2>Bohdan Bilovodskyi</h2>
-                        <h2>October 2024</h2>
+                        <h2>Kenil Gopani</h2>
+                        <h2>Junw 2025</h2>
                     </div>
 
                     <div className="hidden md:flex gap-16">
@@ -167,9 +167,10 @@ function App() {
                     <div
                         className="text-center"
                         id="slide-out-from-bottom-five">
-                        <h2>Email</h2>
-                        <h2>GitHub</h2>
-                        <h2>LinkedIn</h2>
+                        <h2><a href="mailto:gopanikenil26@gmail.com">Email</a></h2>
+                        <h2><a href="https://github.com/kenil-gopani" target="_blank">GitHub</a></h2>
+                        <h2>LinkedIn</a></h2>
+
                     </div>
                 </div>
             </div>
