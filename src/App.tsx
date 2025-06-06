@@ -133,7 +133,7 @@ function App() {
                     className="px-10 pb-10 fixed bottom-0 left-0 right-0 flex justify-between items-end">
                     <div id="slide-out-from-bottom-one">
                         <h2>Kenil Gopani</h2>
-                        <h2>Junw 2025</h2>
+                        <h2>June 2025</h2>
                     </div>
 
                     <div className="hidden md:flex gap-16">
@@ -164,14 +164,17 @@ function App() {
                         <h2> Redesign of Coca-Cola website.</h2>
                     </div>
 
-                    <div
-                        className="text-center"
-                        id="slide-out-from-bottom-five">
-                        <h2>Email</h2>
-                        <h2>GitHub</h2>
-                        <h2>LinkedIn</h2>
-
-                    </div>
+                    <div className="text-center" id="slide-out-from-bottom-five">
+    <a href="mailto:gopanikenil26@gmail.com" className="hover:underline">
+        <h2>Email</h2>
+    </a>
+    <a href="https://github.com/kenil-gopani" target="_blank" rel="noopener noreferrer" className="hover:underline">
+        <h2>GitHub</h2>
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" rel="noopener noreferrer" className="hover:underline">
+        <h2>LinkedIn</h2>
+    </a>
+</div>
                 </div>
             </div>
             <TextSection
